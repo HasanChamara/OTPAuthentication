@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "833525785725",
+    "firebase_url": "https://getotp-7a771-default-rtdb.firebaseio.com",
+    "project_id": "getotp-7a771",
+    "storage_bucket": "getotp-7a771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833525785725:android:8f7f4e7e845f3eec96bd14",
+        "android_client_info": {
+          "package_name": "com.example.otpauthertication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833525785725-3a2qbjg2m3lc6p7tfvab3nv1vltuclp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sDjhmvmgMDcccNTo3jU5-tfNTxDIcjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833525785725-3a2qbjg2m3lc6p7tfvab3nv1vltuclp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
