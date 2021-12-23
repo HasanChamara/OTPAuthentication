@@ -13,4 +13,39 @@
         android:layout_height="wrap_content"
         android:layout_margin="50dp"
         android:text="Button" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HI !!"
+        android:textSize="40dp"
+        android:gravity="center"
+        android:layout_marginTop="60dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WELCOME"
+        android:textSize="40dp"
+        android:gravity="center"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I'm Chamara"
+        android:textSize="40dp"
+        android:gravity="center"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="You are Successfully Logged in With My OTP"
+        android:gravity="center"
+        android:textSize="17dp"
+        android:layout_marginTop="15dp"/>
+
 </LinearLayout>
