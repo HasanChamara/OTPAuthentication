@@ -11,15 +11,29 @@
         android:id="@+id/CCode"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="+94"
         android:layout_marginLeft="15dp"
         android:layout_marginTop="100dp"
         android:layout_marginRight="280dp"
-        android:ems="10"
-        android:hint="+94"
-        android:inputType="phone"
         android:maxLength="3"
         android:minHeight="48dp"
-        tools:ignore="SpeakableTextPresentCheck" />
+        tools:ignore="SpeakableTextPresentCheck"/>
+
+<!--    <EditText-->
+<!--        android:id="@+id/CCode"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginLeft="15dp"-->
+<!--        android:layout_marginTop="100dp"-->
+<!--        android:layout_marginRight="280dp"-->
+<!--        android:ems="10"-->
+<!--        android:hint="+94"-->
+<!--        android:inputType="phone"-->
+<!--        android:maxLength="3"-->
+<!--        android:minHeight="48dp"-->
+<!--        tools:ignore="SpeakableTextPresentCheck" />-->
+
 
     <EditText
         android:id="@+id/PhoneNumber"
@@ -76,4 +90,6 @@
         android:layout_marginRight="30dp"
         android:text="Resend"
         android:visibility="gone" />
+
+
 </LinearLayout>
